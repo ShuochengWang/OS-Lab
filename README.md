@@ -1,4 +1,4 @@
-##简易微内核操作系统
+## 简易微内核操作系统
 
 - 基于C和汇编
 - 保护模式
@@ -15,7 +15,7 @@
 
 ---
 
-##Simple micro-kernel operating system
+## Simple micro-kernel operating system
 
 Developed a simple micro-kernel operating system in a bare computer (virtual machine). The system was developed using C and assembly language in protected mode. 
 
